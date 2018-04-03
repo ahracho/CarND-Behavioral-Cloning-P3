@@ -32,4 +32,7 @@ python model.py images
 3. model-final.h5 : final model I got from the project and used to record the autonomous driving
 4. final.mp4 : autonomous driving video
 5. drive.py : script for test driving (I didn't modify this file)
+~~~sh
+python drive.py model-final.h5
+~~~
 
